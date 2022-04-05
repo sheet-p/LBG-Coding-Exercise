@@ -6,3 +6,6 @@ The applicaion can be run by running the main method and then calling the GET AP
 - url : https://api.lloydsbank.com/open-banking/v2.2/atms
 - identification : LFFFBC11
 ![image](https://user-images.githubusercontent.com/17286683/161658581-d97e30ff-1bb7-46e6-b2e1-f16b771758b5.png)
+
+The actuator endpoints are enabled and can be cross checked at (http://localhost:8080/actuator).
+![image](https://user-images.githubusercontent.com/17286683/161658952-34e69eda-a463-4bda-b201-2459d8995bb1.png)
